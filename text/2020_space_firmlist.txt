@@ -1,0 +1,666 @@
+거상정공
+
+117
+
+GHUSANG PRECISION
+
+경인계측시스템
+
+47
+
+KYONGIN INSTRUMENTS&SYSTEM
+
+공간정보기술
+
+GEOSPATIAL INFORMATION TECHNOLOGY
+
+그린광학
+
+GREEN OPTICS
+
+극동통신
+
+KUKDONG TELECOMMUNICATION
+
+글로벌코넷
+
+GLOBAL KONET
+
+기가알에프
+
+GIGA RF
+
+나라스페이스테크놀로지
+
+NARA SPACE TECHNOLOGY
+
+남광엔지니어링
+
+NAMKWANG ENGINEERING
+
+남원정공
+
+NAMWON PRECISION
+
+네오스펙
+
+NEOSPEC
+
+넵코어스
+
+NAVCOURS
+
+뉴엣지코포레이션
+
+NEWEDGE CORPORATION
+
+단암시스템즈
+
+DANAM SYSTEMS
+
+대아테크
+
+DAEAH TECH
+
+데크항공
+
+DACC AEROSPACE
+
+동헌기업
+
+DONGHUN
+
+
+두산중공업
+
+DOOSAN HEAVY INDUSTRIES&CONSTRUCTION
+
+두시텍
+
+DUSI TECH
+
+두원중공업
+
+DOOWON HEAVY INDUSTRIAL COMPNAY
+
+디지탈컴
+
+DIGITAL COM
+
+리얼타임웨이브
+
+REALTIMEWAVE
+
+머큐리
+
+MERCURY
+
+메스코
+
+MESCO
+
+모아소프트
+
+MOASOFT
+
+볼시스
+
+BORSYS
+
+부영엔지니어링지엠피
+
+BOOYOUNG ENGINEERING
+
+브이엠브이테크
+
+VMV TECH
+
+비앤씨텍
+
+BNC TECH
+
+비츠로넥스텍
+
+VITZRO NEXTECH
+
+삼부세라믹
+
+SAMBOO CERAMICS
+
+삼우금속공업
+
+SAMWOO METAL INDUSTRIES
+
+서호엔지니어링
+
+SEOHO ENGINEERING
+
+성원포밍
+
+SUNG WON FORMING
+
+솔탑
+
+188
+
+SOLETOP
+
+스카이윈
+
+190
+
+SKYWIN
+
+스페이스솔루션
+
+72
+
+SPACE SOLUTIONS
+
+승진정밀
+
+74
+
+SEUNG JIN PRECISION
+
+써니전자
+
+12
+
+SUNNY ELECTRONICS
+
+쎄트렉아이
+
+14
+
+SATRECI
+
+아리온통신
+
+192
+
+ARION IT
+
+아센코리아
+
+194
+
+ASCEN KOREA
+
+아스프정밀항공
+
+17
+
+ASP AERO
+
+아유텍
+
+19
+
+AU TECH
+
+아이쓰리시스템
+
+21
+
+I3 SYSTEM
+
+알에스피
+
+76
+
+RSP
+
+알지티
+
+197
+
+RGT
+
+앰비언트
+
+77
+
+AMVIENT
+
+에너베스트
+
+137
+
+ENERBEST
+
+에스비금속
+
+79
+
+SB METAL
+
+에스아이아이에스
+
+200
+
+SIIS
+
+○
+
+위성 활용
+
+●
+
+●
+
+●
+
+○
+
+●
+
+○
+
+과학 연구
+
+○
+
+○
+
+○
+
+우주 탐사
+
+에스앤케이항공
+
+81
+
+S&K AEROSPACE
+
+에스앤에이치
+
+85
+
+S&H
+
+에스엠테크
+
+23
+
+SM TECH
+
+에스이티시스템
+
+202
+
+SET SYSTEM
+
+에스티엑스엔진
+
+204
+
+STX ENGINE
+
+에이디알에프코리아
+
+207
+
+ADRF KOREA
+
+에이피솔루션즈
+
+87
+
+AD SOLUTIONS
+
+엘테크
+
+25
+
+EL TECH
+
+엠티지
+
+139
+
+MTG
+
+왈도시스템
+
+209
+
+WALDO SYSTEM
+
+우레아텍
+
+141
+
+UREA TAC
+
+우리별
+
+142
+
+WOORIBYUL
+
+웰텍
+
+27
+
+WEL TECH
+
+유남옵틱스
+
+28
+
+YUNAM OPTICS
+
+이노스페이스
+
+89
+
+INNO SPACE
+
+이노컴
+
+91
+
+INOCOM
+
+이노템즈
+
+93
+
+INNO TEMS
+
+※ 본문 수록순서는 각 주력 분야별 가나다 순
+
+● : 주력 참여분야, ○ : 기타 참여분야 기 업 명
+
+Page
+
+위성체 제작
+
+●
+
+●
+
+○
+
+발사체
+
+제작
+
+●
+
+●
+
+●
+
+지상 장비
+
+○
+
+○
+
+●
+
+●
+
+●
+
+○
+
+●
+
+●
+
+○
+
+위성 활용
+
+●
+
+○
+
+●
+
+●
+
+○
+
+●
+
+●
+
+●
+
+과학 연구
+
+●
+
+우주 탐사
+
+이엠따블유
+
+212
+
+EMW
+
+이엠코리아
+
+97
+
+EM KOREA
+
+이오에스
+
+30
+
+EOS
+
+인성인터내쇼날
+
+213
+
+INSUNG INTERNATIONAL
+
+인터콤전자
+
+33
+
+INTERCOM
+
+인텔리안 테크놀로지스
+
+215
+
+INTELLIAN TECHNOLOGYS
+
+잉가솔랜드코리아
+
+145
+
+INGERSOLL RAND KOREA
+
+제이엔티
+
+147
+
+J&T
+
+지솔루션
+
+225
+
+G SOLUTION
+
+지티에스솔루션즈
+
+149
+
+GTS SOLUTIONS
+
+카프마이크로
+
+99
+
+CAPHMICRO
+
+캠틱종합기술원
+
+150
+
+CAMTIC
+
+컨텍
+
+153
+
+CONTEC
+
+케이앤에스아이앤씨
+
+217
+
+KNS INC
+
+케이티샛
+
+220
+
+KT SAT
+
+케이티스카이라이프
+
+222
+
+KT SKYLIFE
+
+케이피항공
+
+103
+
+KP AERO INDUSTRIES
+
+※ 본문 수록순서는 각 주력 분야별 가나다 순
+
+● : 주력 참여분야, ○ : 기타 참여분야 기 업 명
+
+Page
+
+위성체 제작
+
+●
+
+●
+
+●
+
+●
+
+○
+
+●
+
+발사체
+
+제작
+
+●
+
+●
+
+○
+
+○
+
+○
+
+●
+
+○
+
+지상 장비
+
+○
+
+●
+
+●
+
+●
+
+●
+
+위성 활용
+
+○
+
+○
+
+과학 연구
+
+○
+
+우주 탐사
+
+코텍
+
+106
+
+COTEC
+
+큐니온
+
+35
+
+QNION
+
+티오엠에스
+
+38
+
+TOMS
+
+평창테크
+
+109
+
+PYUNGCHANG TECH
+
+프로메이트
+
+40
+
+PROMATE
+
+필텍
+
+157
+
+PHIL TECH
+
+하이게인안테나
+
+158
+
+HIGH GAIN ANTENNA
+
+한국치공구공업
+
+157
+
+KOREA JIG&FIXTURE INDUSTRIES
+
+한국항공우주산업주식회사
+
+KOREA AEROSPACE INDUSTRIES
+
+한국화이바
+
+HANKUK FIBER
+
+한양이엔지
+
+HANYANG ENG
+
+한화시스템
+
+HANWHA SYSTEMS
